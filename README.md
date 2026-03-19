@@ -16,8 +16,9 @@ Dataset — ReasonMed (HuggingFace)
 -Medical QA with chain-of-thought
 
 1. Unsloth — Faster Fine-Tuning
-Unsloth provides optimized kernels for transformer training, reducing VRAM usage significantly compared to vanilla Transformers + PEFT. Key benefits:
+Unsloth provides optimized kernels for transformer training, reducing VRAM usage significantly compared to vanilla Transformers + PEFT.
 
+Key benefits:
 2× faster training speed
 Up to 70% less VRAM usage
 Drop-in replacement for HuggingFace transformers
